@@ -1,5 +1,5 @@
 import tkinter as tk
-
+import numpay as np
 from main_class import *
 
 class CalculatorApp:
